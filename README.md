@@ -1,4 +1,3 @@
----
 
 # Histopathologic Cancer Detection – CNN Mini-Project
 
